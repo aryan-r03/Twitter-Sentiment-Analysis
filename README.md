@@ -7,8 +7,7 @@ A Flask web application that performs sentiment analysis on tweets using machine
 ```
 ├── app.py                    # Main Flask application with routes
 ├── sentiment_model.py        # SentimentModel class with ML logic
-├── templates/
-│   └── index.html           # Frontend HTML template
+├── index.html                # Frontend HTML template
 ├── requirements.txt         # Python dependencies
 └── README.md               # This file
 ```
