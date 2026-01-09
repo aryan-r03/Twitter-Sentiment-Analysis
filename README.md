@@ -2001,7 +2001,7 @@ Special thanks to:
 - 🌐 **Flask Community** for the web framework
 - 🐦 **Twitter** for inspiring social media analytics
 - 👥 **Open Source Community** for continuous support
-- 💚 **You** for using and supporting this project!
+-  **Thank You** for using and supporting this project!
 
 </div>
 
@@ -2011,7 +2011,7 @@ Special thanks to:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Aryan+Ranjan;Web+Application+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Author Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Aryan+Ranjan;Web+Application+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Author Typing SVG" />
 
 <br>
 
