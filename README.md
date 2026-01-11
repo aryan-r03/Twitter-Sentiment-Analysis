@@ -342,7 +342,7 @@ Input Tweet
       <br>Core language
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" alt="Flask"/>
+      <img src="https://img.icons8.com/nolan/64/flask.png" width="60" height="60" alt="Flask"/>
       <br><b>Flask 3.0</b>
       <br>Web framework
     </td>
